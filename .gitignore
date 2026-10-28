@@ -1,0 +1,21 @@
+# 忽略 Visual Studio 的隐藏设置文件夹
+.vs/
+.vscode/
+
+# 忽略编译产生的中间文件和可执行文件
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.exp
+*.lib
+*.tlog
+
+# 忽略依赖项缓存
+*.cache
+*.log
